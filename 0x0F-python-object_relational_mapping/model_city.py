@@ -7,10 +7,7 @@ from sqlalchemy import ForeignKey
 from sqlalchemy import Column
 from sqlalchemy import String
 from sqlalchemy import Integer
-
-
 Base = declarative_base()
-
 class City(Base):
     """
         City class inherits the Base class
