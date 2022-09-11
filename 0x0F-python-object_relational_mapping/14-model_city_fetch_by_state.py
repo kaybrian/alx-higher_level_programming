@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 """
     A script that prints all City objects from the database hbtn_0e_6_usa
